@@ -1,0 +1,30 @@
+body{
+    border:0dvh;
+}
+.first{
+    background-color:rgba(225, 173, 239, 0.575);
+}
+h1{
+    color: black;
+}
+
+h3{
+    color: rgb(128, 0, 70);
+}
+#education{
+    color: black;
+}
+.split{
+    height: 100%;
+    width: 45%;
+    position: fixed;
+}
+.left{
+    left: 2;
+    border-right:0cap;
+}
+.right{
+    right: 0;
+    border-left: 0cap;
+    border-color:black;
+}
